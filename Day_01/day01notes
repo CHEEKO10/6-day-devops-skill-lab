@@ -1,0 +1,19 @@
+Day 1: Getting Started with AWS and EC2
+
+Summary:
+
+On our first day, we embarked on our cloud journey by diving into Amazon Web Services (AWS). We took the initial steps to set up our environment and gain hands-on experience with the fundamental building block of cloud computing: the EC2 instance.
+
+Key Activities:
+
+AWS Account Creation:
+We began by creating our own AWS accounts, granting us access to the vast array of cloud services offered by Amazon.
+EC2 Instance Launch:
+We launched our first Elastic Compute Cloud (EC2) instance. EC2 provides virtual servers in the cloud, allowing us to run applications and workloads.
+Instance Connection:
+We established a connection to our newly launched EC2 instance, gaining access to its command-line interface. This allowed us to interact directly with the server's operating system.
+Basic Command Execution:
+We explored the instance's environment by running some basic Linux commands. This familiarized us with the command-line interface and the fundamental way to interact with the server.
+Outcome:
+
+We successfully created our AWS account, launched an EC2 instance, and established a connection. We started to get a feel for the cloud environment and how to interact with a remote server. This was the first step in our journey to learn and master cloud computing.
