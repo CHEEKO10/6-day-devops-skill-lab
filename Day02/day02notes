@@ -1,0 +1,37 @@
+Day 2: Mastering the Linux Command Line - Our First Steps
+
+Summary:
+
+Today's session was all about getting comfortable with the Linux command line. We learned how to communicate directly with the operating system using simple, yet powerful, commands. This is a crucial skill for anyone working in DevOps and cloud environments, where Linux is the dominant player.
+
+Key Commands and Concepts:
+
+Navigating the File System:
+
+pwd: "Show me my current location." (Displays the present working directory)
+ls: "List the contents of this directory." (Shows files and folders)
+ls -l: "Give me detailed information about these files." (Displays permissions, size, etc.)
+cd <directory>: "Move into the specified folder." (Changes the current directory)
+cd ..: "Go back to the parent directory."
+mkdir <directory>: "Create a new folder."
+rmdir <directory>: "Remove an empty folder."
+touch <filename>: "Create an empty file."
+rm <filename>: "Delete a file."
+rm -r <directory>: "Delete a folder and everything inside it." (Use with caution!)
+File Inspection and Editing:
+
+cat <filename>: "Display the entire file's content."
+more <filename> / less <filename>: "View the file's content page by page."
+nano <filename>: "Edit the file using a simple text editor."
+vi <filename>: "Edit the file using a powerful, advanced text editor."
+System and User Information:
+
+chmod: "Modify file permissions."
+clear: "Clear the terminal screen."
+history: "View previously executed commands."
+man <command>: "Access the command's manual page." (Help documentation)
+whoami: "Display the current user's name."
+uname -a: "Show detailed system information."
+Our Progress:
+
+We've successfully learned the fundamental commands for navigating the Linux file system, viewing and editing files, and obtaining essential system information. These commands are the building blocks for more advanced system administration and DevOps tasks. We're now better equipped to interact with Linux-based servers and lay the groundwork for our future learning.
